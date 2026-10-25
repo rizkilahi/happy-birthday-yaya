@@ -1,0 +1,14 @@
+# Dependencies & Environment
+node_modules/
+.env
+
+# Testing & Cache
+.playwright-mcp/
+__pycache__/
+*.pyc
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
